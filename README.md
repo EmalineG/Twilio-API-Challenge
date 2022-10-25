@@ -11,4 +11,4 @@ Future Plans:
 - Ability to delay text delivery until specified time/date
 - Ability to submit events with a location + time/date
 - Functionality for submission of event to create a page
-    -Will include form to request text at the event's specified time/date
+- Created pages will include form to request text at the event's specified time/date
