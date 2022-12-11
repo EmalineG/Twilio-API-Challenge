@@ -6,7 +6,7 @@ This program sends an MMS message to the specified phone number using the Twilio
 
 It also has a callback URI to track delivery status of texts.
 
-Future Plans (SEE: TEXTMEWHEN)[https://github.com/BigDummyInitiative/TextMeWhen]
+Future Plans [SEE: TEXTMEWHEN](https://github.com/BigDummyInitiative/TextMeWhen)
 
 - Ability to delay text delivery until specified time/date
 - Ability to submit events with a location + time/date
